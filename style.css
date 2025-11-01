@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+main {
+    background-color: rgb(64, 216, 251);
+    width: 600px;
+    justify-self: center;
+}
